@@ -2,7 +2,7 @@
 	<quiz>
 		<question type="multichoice">
 			<multichoice>
-				<text>course/multichoice</text>
+				<text>courseblabla/multichoice</text>
 			</multichoice>
 		</question>
 		<question type="matching">
