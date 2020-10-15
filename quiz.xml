@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+	<quiz>
+		<question type="multichoice">
+			<multichoice>
+				<text>course/multichoice</text>
+			</multichoice>
+		</question>
+		<question type="matching">
+			<matching>
+				<text>course/matching</text>
+			</matching>
+		</question>
+	</quiz>
